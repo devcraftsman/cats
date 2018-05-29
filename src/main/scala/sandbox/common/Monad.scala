@@ -1,8 +1,7 @@
 package sandbox.common
 
+/*
 import cats.Id
-import cats.syntax.functor._
-
 trait Monad[F[_]] {
 
   def pure[A](a: A) : F[A]
@@ -22,4 +21,4 @@ object MonadInstances {
 
     override def map[A,B](value : Id[A])(func : A => B) : Id[B] =func(value)
   }
-}
+} */
